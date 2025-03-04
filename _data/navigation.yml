@@ -4,21 +4,21 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Professional Experience"
-    url: "/#-professional-experience"
+    url: "/#professional-experience"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - projects: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
 
