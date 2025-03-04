@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Akshay Nayak"
-description              : "Graduate student at The George Washington University pursuing Master's of Science in Computer Science."
+description              : "Master’s Student in Computer Science at The George Washington University."
 repository               : "kayanyahska/kayanyahska.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ google_site_verification :
 author:
   name             : "Akshay Nayak"
   avatar           : "images/an_profile.jpeg"
-  bio              : "The George Washington University"
+  bio              : "Machine Learning | Software Engineer |Computer Vision | Bridging Tech & Innovation "
   location         : "Washington DC, USA"
   employer         :
   pubmed           : 
