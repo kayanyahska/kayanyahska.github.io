@@ -13,12 +13,12 @@ main:
     url: "/#internships"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
-  - projects: "Projects"
+  - title: "Projects"
     url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
 
