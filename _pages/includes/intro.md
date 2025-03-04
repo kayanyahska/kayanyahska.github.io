@@ -1,5 +1,3 @@
-<div style="background: linear-gradient(45deg, #ff6b6b, #f0f8ff); background-size: 400% 400%; animation: gradient 10s ease infinite; padding: 15px; border-radius: 8px;">
-
 Welcome to my digital lair, where **code** meets **curiosity**, and **AI** meets an excessive number of open browser tabs. I'm **Akshay Nayak**, a *software engineer*, *researcher*, *trekker*, and a self-proclaimed *caffeine-fueled philosopher*. (Full-time chef, part-time software engineer, and sometimes a ninja in my free time 😄).
 
 Currently, I'm in the midst of deep-diving into **Computer Science** at **George Washington University**, where I’m crafting algorithms, pushing the boundaries of **AI**, and trying to convince machines that anime is the ultimate art form. (They’re getting there, I promise.)
@@ -21,13 +19,3 @@ If you're here to talk about **AI**, debate which **shonen protagonist** would w
 Let’s innovate, collaborate, and maybe argue over the best anime villains. 👨‍💻✨
 
 And of course... **"DATTEBAYO!"** 🌟🌟
-
-</div>
-
-<style>
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
