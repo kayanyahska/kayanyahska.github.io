@@ -1,13 +1,3 @@
----
-permalink: /internships/
-title: "Internships"
-excerpt: ""
-author_profile: true
----
-{% include_relative includes/internships.md %}
-
-
-
 # Internships
 
 ## 🏛 **Alan Turing Institute (Remote Intern)** *(Jul. 2021 – Aug. 2024)*  
