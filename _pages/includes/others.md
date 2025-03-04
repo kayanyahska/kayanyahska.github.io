@@ -1,5 +1,5 @@
 
-# **Education**
+# Education
 
 ## 🎓 **George Washington University** *(Washington, DC | Expected May 2026)*  
 ### **Master of Science in Computer Science**  
@@ -12,7 +12,7 @@
 📚 **Learning never stops—always exploring new frontiers in technology and AI!**
 
 
-# **Professional Experience**
+# Professional Experience
 
 ## 💳 **Mastercard, Data & Services Technology** *(Pune, India | Jul. 2021 – Aug. 2024)*  
 ### **Software Engineer (Full Stack)**  
@@ -30,7 +30,7 @@
 🚀 **Bridging the gap between technology, business insights, and AI-driven innovation!**
 
 
-# **Research Internships**
+# Research Internships
 
 ## 🏛 **Alan Turing Institute (Remote Intern)** *(Jul. 2021 – Aug. 2024)*  
 - **Advisor**: Prof. Ganna Pogrebna, ESRC/Turing Fellow.  
@@ -58,7 +58,7 @@
 🚀 **Pushing the boundaries of AI and research, one experiment at a time!**
 
 
-# **Projects**
+# Projects
 
 ## 🎵 **Go Audio Signal Visualization Utility** *(Sep. 2024 – Nov. 2024)*  
 - **Objective**: Developed a high-performance Go-based tool to visualize and analyze audio signals efficiently.  

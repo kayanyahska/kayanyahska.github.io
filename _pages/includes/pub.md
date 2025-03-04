@@ -1,5 +1,5 @@
 
-# 📜 **Research Publications & Contributions**  
+# 📜 **Publications**  
 
 ### **1. [INASNET: Automatic Identification of COVID-19 Based on Chest X-ray Using Deep Neural Network]((https://www.sciencedirect.com/science/article/pii/S0019057822000933))**  
 - **Authors**: Murukessan Perumal, **Akshay Nayak**, et al.  
