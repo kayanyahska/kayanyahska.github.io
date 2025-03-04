@@ -1,3 +1,11 @@
+---
+permalink: /internships/
+title: "Internships"
+excerpt: ""
+author_profile: true
+---
+
+
 # Internships
 
 ## 🏛 **Alan Turing Institute (Remote Intern)** *(Jul. 2021 – Aug. 2024)*  
