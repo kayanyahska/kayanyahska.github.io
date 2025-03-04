@@ -77,7 +77,7 @@
   - Designed an **interactive UI** featuring **live register displays, instruction decoding, and real-time error detection**.  
   - Improved system efficiency and debugging capabilities for **custom instruction sets**.  
 
-## 🏆 **[![Satya (Smart India Hackathon 2020 - National Winner)](https://img.youtube.com/vi/geFl37R0cQc/0.jpg)](https://www.youtube.com/watch?v=geFl37R0cQc&feature=youtu.be)(https://www.youtube.com/watch?v=geFl37R0cQc&feature=youtu.be)** *(Oct. 2019 – Dec. 2019)*  
+## 🏆 **[![Satya (Smart India Hackathon 2020 - National Winner)](https://img.youtube.com/vi/geFl37R0cQc/0.jpg)](https://www.youtube.com/watch?v=geFl37R0cQc&feature=youtu.be)** *(Oct. 2019 – Dec. 2019)*  
 - **Objective**: Created a **Django-based anti-corruption platform** to report and track bribery cases in India.  
 - **Technologies Used**: Django, Android (Java), PostgreSQL, AWS.  
 - **Key Contributions**:  
@@ -86,7 +86,7 @@
   - Led a **6-member team**, managing the development lifecycle and coordination between backend and mobile teams.  
   - Won the **national competition** out of **37,000+ submissions**, recognized for its potential societal impact.  
 
-## 🚨 **Brahmastra (Microsoft Codefundo++ Hackathon - Institute Winner)** *(Oct. 2018 – Dec. 2018)*  
+## 🚨 **[![Brahmastra (Microsoft Codefundo++ Hackathon - Institute Winner)](https://img.youtube.com/vi/CNf3aye4r5U/1.jpg)](https://www.youtube.com/watch?v=CNf3aye4r5U)** *(Oct. 2018 – Dec. 2018)*  
 - **Objective**: Designed a disaster-response platform to connect victims and rescue teams in **low-network areas**.  
 - **Technologies Used**: Django, SMS/USSD technology, Raspberry Pi, dLTE Networks.  
 - **Key Contributions**:  
