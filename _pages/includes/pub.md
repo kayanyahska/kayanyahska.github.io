@@ -1,9 +1,9 @@
 
-# 📜 **Publications**  
+# 📜 Publications
 
-### **1. [INASNET: Automatic Identification of COVID-19 Based on Chest X-ray Using Deep Neural Network]((https://www.sciencedirect.com/science/article/pii/S0019057822000933))**  
+### **1. INASNET: Automatic Identification of COVID-19 Based on Chest X-ray Using Deep Neural Network**  
 - **Authors**: Murukessan Perumal, **Akshay Nayak**, et al.  
-- **Published In**: *ISA Transactions, 2022*  
+- **Published In**: *[ISA Transactions, 2022]((https://www.sciencedirect.com/science/article/pii/S0019057822000933))*  
 - **Summary**: Developed a **deep learning-based neural network (INASNET)**, achieving **95% accuracy** in detecting COVID-19 infections from chest X-ray images. This research significantly contributed to early diagnosis methodologies during the pandemic.  
 
 ### **2. Multi-Features Based Facial Expression Recognition**  

@@ -1,4 +1,3 @@
-
 # Education
 
 ## 🎓 **George Washington University** *(Washington, DC | Expected May 2026)*  
@@ -30,7 +29,7 @@
 🚀 **Bridging the gap between technology, business insights, and AI-driven innovation!**
 
 
-# Research Internships
+# Internships
 
 ## 🏛 **Alan Turing Institute (Remote Intern)** *(Jul. 2021 – Aug. 2024)*  
 - **Advisor**: Prof. Ganna Pogrebna, ESRC/Turing Fellow.  
@@ -78,7 +77,7 @@
   - Designed an **interactive UI** featuring **live register displays, instruction decoding, and real-time error detection**.  
   - Improved system efficiency and debugging capabilities for **custom instruction sets**.  
 
-## 🏆 **Satya (Smart India Hackathon 2020 - National Winner)** *(Oct. 2019 – Dec. 2019)*  
+## 🏆 **[![Satya (Smart India Hackathon 2020 - National Winner)](https://img.youtube.com/vi/geFl37R0cQc/0.jpg)](https://www.youtube.com/watch?v=geFl37R0cQc&feature=youtu.be)(https://www.youtube.com/watch?v=geFl37R0cQc&feature=youtu.be)** *(Oct. 2019 – Dec. 2019)*  
 - **Objective**: Created a **Django-based anti-corruption platform** to report and track bribery cases in India.  
 - **Technologies Used**: Django, Android (Java), PostgreSQL, AWS.  
 - **Key Contributions**:  
